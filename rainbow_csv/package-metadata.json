@@ -1,0 +1,1 @@
+{"url": "https://github.com/mechatroner/sublime_rainbow_csv", "platforms": ["*"], "version": "0.3.0", "dependencies": [], "sublime_text": ">=3000", "description": "Sublime Text plugin for highlighting CSV and TSV files in different colors and executing SELECT and UPDATE queries in SQL-like language"}

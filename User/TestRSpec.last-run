@@ -1,0 +1,13 @@
+{
+	"command_hash":
+	{
+		"encoding": "utf-8",
+		"env":
+		{
+		},
+		"file_regex": "([^ ]*\\.rb):?(\\d*)",
+		"shell_cmd": "( cd /Users/j.esparza/workspace/modcloth/notifications && /usr/bin/env ruby -S bundle exec rspec app/workers/fedex/responsys_file_worker.rb)",
+		"syntax": "Packages/TestRSpec/themes/TestConsole.tmLanguage",
+		"working_dir": "/Users/j.esparza/workspace/modcloth/notifications"
+	}
+}

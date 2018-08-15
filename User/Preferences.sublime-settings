@@ -1,0 +1,65 @@
+{
+	"atomic_save": false,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.log",
+		"*.rdb",
+		"node_modules/*"
+	],
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"tmp"
+	],
+	"font_face": "Monaco",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Sync Settings",
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_panel": false,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_titlebar": true,
+	"material_theme_tree_headings": true,
+	"parameters":
+	[
+		"--open-in-tab"
+	],
+	"save_on_focus_lost": true,
+	"status_bar_brighter": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"terminal": "iTerm2.sh",
+	"theme": "Material Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 120
+}
